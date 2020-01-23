@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "hitsuji-haneta <hitsuji-haneta@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "png-itxt": "^2.0.0"
+  }
 }
