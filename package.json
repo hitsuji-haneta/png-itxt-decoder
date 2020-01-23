@@ -1,0 +1,7 @@
+{
+  "name": "png-itxt-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hitsuji-haneta <hitsuji-haneta@hotmail.com>",
+  "license": "MIT"
+}
